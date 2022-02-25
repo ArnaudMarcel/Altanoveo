@@ -1,7 +1,7 @@
 #!/bin/bash
 echo "--------START PROCESSING AT: $(date "+%Y-%m-%d %H:%M:%S")--------"
 
-query='fish'
+query='wheelbarrow'
 fields='created_at,public_metrics,author_id,lang'
 bearerToken='AAAAAAAAAAAAAAAAAAAAAINlZgEAAAAAWkessX16ldt0dpRmEvI3HSS0RV0%3DXotNmRMj5yL8Cw7fRWIEvblyH7bRV3OsmuXO4Ir6vwaiThCl2Y'
 maxresults=100
